@@ -1,6 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Lucas Schuster!</strong>
 
-> Estudante em programação
+> Estudante em programação 
+
 > Meu site: lucaseduardoschuster.com.br
 
 ----
