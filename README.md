@@ -2,7 +2,7 @@
 
 > Estudante em programação 
 
->Meu site: <a src="lucaseduardoschuster.com.br">lucaseduardoschuster.com.br</a>
+>Meu site: <a href="lucaseduardoschuster.com.br" target="_blank">lucaseduardoschuster.com.br</a>
 
 ----
 
