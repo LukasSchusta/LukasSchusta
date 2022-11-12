@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-💜 Olá, meu nome é <strong>Lucas Schuster!</strong>
+<p font-size="20px">💜 │ Olá, meu nome é Lucas Schuster</p>
+
 
 > Estudante em programação 
 >Meu site: <a href="lucaseduardoschuster.com.br" target="_blank">lucaseduardoschuster.com.br</a>
@@ -15,6 +16,5 @@
 </p>
 
 [![card](https://github-readme-stats.vercel.app/api?username=LukasSchusta&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasSchusta&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
