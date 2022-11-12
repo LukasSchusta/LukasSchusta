@@ -15,4 +15,4 @@
 </p>
 
 [![card](https://github-readme-stats.vercel.app/api?username=LukasSchusta&theme=dracula)
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasSchusta&hide=html&layout=compact&theme=dracula)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=LukasSchusta&hide=html&layout=compact&theme=dracula)
