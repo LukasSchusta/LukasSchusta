@@ -14,5 +14,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=LukasSchusta&theme=dracula)]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=LukasSchusta&hide=html&layout=compact&theme=dracula)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
