@@ -4,7 +4,7 @@
 
 > Estudante em programação 
   
->Meu site: [(lucaseduardoschuster.com.br)](https://lucaseduardoschuster.com.br/)
+>Meu site: https://lucaseduardoschuster.com.br/
   
 ## 🚀 Minhas Skills
 <p align="left">
