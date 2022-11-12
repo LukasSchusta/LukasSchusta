@@ -5,7 +5,6 @@
 
 >Meu site: <a href="lucaseduardoschuster.com.br" target="_blank">lucaseduardoschuster.com.br</a>
 
-----
 
 ## 🚀 Minhas Skills
 <p align="left">
