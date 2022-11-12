@@ -4,7 +4,7 @@
 
 > Estudante em programação 
   
->Meu site: <a src="lucaseduardoschuster.com.br" target="_blank" rel="nofollow">lucaseduardoschuster.com.br</a>
+>Meu site: (lucaseduardoschuster.com.br)
   
 ## 🚀 Minhas Skills
 <p align="left">
