@@ -14,4 +14,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukasSchusta&show_icons=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukasSchusta&show_icons=true)](https://github-readme-stats.vercel.app/api?username=iuricode&theme=synthwave)
