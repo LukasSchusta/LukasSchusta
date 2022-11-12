@@ -14,5 +14,5 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=LukasSchusta&theme=synthwave)]
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=synthwave)
+[![card](https://github-readme-stats.vercel.app/api?username=LukasSchusta&theme=Tokyonight)]
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasSchusta&hide=html&layout=compact&theme=Tokyonight)
