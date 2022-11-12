@@ -1,14 +1,10 @@
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Olá, meu nome é <strong>Lucas Schuster<strong> 💜
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-  
 > Estudante em programação 
   
 >Meu site: <a href="lucaseduardoschuster.com.br" target="_blank">lucaseduardoschuster.com.br</a>
-
-  
   
 ## 🚀 Minhas Skills
 <p align="left">
