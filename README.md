@@ -8,7 +8,7 @@
   
 ## 🚀 Minhas Skills
 
- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,androidstudio, flutter, javascript, html, css, sass, git, github, &perline=3)](https://skillicons.dev)
 
 
 
