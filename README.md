@@ -7,9 +7,9 @@
 >Meu site: [lucaseduardoschuster.com.br](https://lucaseduardoschuster.com.br/)
   
 ## 🚀 Minhas Skills
-<p align="left">
+
  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-</p>
+
 
 
   
