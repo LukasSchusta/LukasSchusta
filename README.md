@@ -8,7 +8,7 @@
   
 ## 🚀 Minhas Skills
 
- [![My Skills](https://skillicons.dev/icons?i=php,laravel,java,flutter,firebase,androidstudio,git&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=php,laravel,bootstrap,tailwind,java,flutter,firebase,androidstudio,git&perline=6)](https://skillicons.dev)
 
 
 
