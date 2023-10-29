@@ -2,7 +2,7 @@
 
 ## Olá, meu nome é <strong>Lucas<strong>
 
-> Estudante em programação 📌
+> Estudante e profissional de TI 📌
   
 >Acesse meu site: [lucaseduardoschuster.com.br](https://lucaseduardoschuster.com.br/)
   
